@@ -26,18 +26,17 @@ This project automates the creation of core AWS infrastructure using Terraform. 
 
 ## SNAPSHOTS
 
-<img src="captures-automated-infra/automated01.PNG" alt="aws-automated-terraform" width="400"/>
+<img src="captures-automated-infra/automate01.PNG" alt="aws-automated-terraform" width="400"/>
 
+<img src="captures-automated-infra/automate02.PNG" alt="aws-automated-terraform" width="400"/>
 
-<img src="captures-automated-infra/automated02.PNG" alt="aws-automated-terraform" width="400"/>
+<img src="captures-automated-infra/automate03.PNG" alt="aws-automated-terraform" width="400"/>
 
-<img src="captures-automated-infra/automated03.PNG" alt="aws-automated-terraform" width="400"/>
+<img src="captures-automated-infra/automate04.PNG" alt="aws-automated-terraform" width="400"/>
 
-<img src="captures-automated-infra/automated04.PNG" alt="aws-automated-terraform" width="400"/>
+<img src="captures-automated-infra/automate05.PNG" alt="aws-automated-terraform" width="400"/>
 
-<img src="captures-automated-infra/automated05.PNG" alt="aws-automated-terraform" width="400"/>
-
-<img src="captures-automated-infra/automated06.PNG" alt="aws-automated-terraform" width="400"/>
+<img src="captures-automated-infra/automate06.PNG" alt="aws-automated-terraform" width="400"/>
 
 <img src="captures-automated-infra/automated07.PNG" alt="aws-automated-terraform" width="400"/>
 
