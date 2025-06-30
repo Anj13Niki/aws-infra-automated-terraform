@@ -6,8 +6,8 @@ This project automates the creation of core AWS infrastructure using Terraform. 
 
 ## 📦 Components Deployed
 
-- **VPC** with public/private subnets
-- **Internet Gateway** and **NAT Gateway**
+- **VPC** with subnets
+- **Internet Gateway** 
 - **Route Tables**
 - **EC2 Instances** with user-data scripts
 - **Security Groups** (e.g., SSH, HTTP/S access)
