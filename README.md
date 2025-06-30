@@ -43,5 +43,8 @@ This project automates the creation of core AWS infrastructure using Terraform. 
 
 <img src="captures-automated-infra/automated08.PNG" alt="aws-automated-terraform" width="400"/>
 
+<img src="captures-automated-infra/automated09.PNG" alt="aws-automated-terraform" width="400"/>
+
+
 
 
